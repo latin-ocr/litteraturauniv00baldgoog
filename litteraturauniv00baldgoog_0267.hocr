@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./litteraturauniv00baldgoog_0267.png"; bbox 0 0 3050 4992; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 273 1474 1275 1661">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 273 1474 1275 1661">
+     <span class='ocr_line' id='line_1_1' title="bbox 273 1474 1275 1661; baseline 0.033 -8"><span class='ocrx_word' id='word_1_1' title='bbox 273 1474 649 1661; x_wconf 41' lang='lat' dir='ltr'>*mmmm</span> <span class='ocrx_word' id='word_1_2' title='bbox 687 1549 1009 1661; x_wconf 69' lang='lat' dir='ltr'><strong>Msschss.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1086 1484 1128 1589; x_wconf 72' lang='lat'>7</span> <span class='ocrx_word' id='word_1_4' title='bbox 1272 1546 1275 1557; x_wconf 85' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 404 1731 987 2005">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 404 1731 987 2005">
+     <span class='ocr_line' id='line_1_2' title="bbox 498 1731 838 1858; baseline 0.059 -47"><span class='ocrx_word' id='word_1_5' title='bbox 498 1731 504 1747; x_wconf 91' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 534 1742 781 1858; x_wconf 59' lang='grc' dir='ltr'>ΡΑΚὸνΠῐ.</span> <span class='ocrx_word' id='word_1_7' title='bbox 835 1804 838 1811; x_wconf 76' lang='lat'><em>,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 404 1876 987 2005; baseline 0.084 -42"><span class='ocrx_word' id='word_1_8' title='bbox 404 1876 912 2005; x_wconf 52' lang='lat' dir='ltr'>,RficNum-ANJ&#39;MALBC.</span> <span class='ocrx_word' id='word_1_9' title='bbox 983 1990 987 1999; x_wconf 69' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1530 4992">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1530 4992">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1530 4992; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1530 4992; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
